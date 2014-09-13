@@ -1,7 +1,8 @@
-Cheat sheets
-===========
+#Cheat sheets
 
-As well as the PDF files above, here are some useful resources for getting started/refreshing the memory on various tasks and topics.
+The cheat sheets are in PDF form above. Just right-click and choose Save Link As...
+
+#Other resources
 
 ###Setting up
 
