@@ -1,11 +1,7 @@
-#PDF cheat sheets
+Cheat sheets
+===========
 
-- [Ruby](/Ruby.pdf)
-
-
----
-
-#Other useful resources
+As well as the PDF files above, here are some useful resources for getting started/refreshing the memory on various tasks and topics.
 
 ###Setting up
 
