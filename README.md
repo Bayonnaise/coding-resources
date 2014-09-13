@@ -12,7 +12,6 @@ As well as the PDF files in this repo, here are some useful links for getting st
 
 - [Ruby docs](http://ruby-doc.org/)
 - [Ruby on Rails Guide](http://guides.rubyonrails.org/)
-- [Configuring DatabaseCleaner with Rails, RSpec, Capybara](http://devblog.avdi.org/2012/08/31/configuring-database_cleaner-with-rails-rspec-capybara-and-selenium/)
 - [Rubular - regular expressions](http://rubular.com/)
 
 ###Testing
@@ -26,6 +25,12 @@ As well as the PDF files in this repo, here are some useful links for getting st
 - [JQuery online cheat sheet](http://oscarotero.com/jquery/)
 - [MDN web guide](https://developer.mozilla.org/en-US/docs/Web)
 - [Responsive web design](http://www.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/)
+- [Markdown](http://daringfireball.net/projects/markdown/syntax)
+
+###Databases
+
+- [PostgreSQL online cheat sheet](http://www.petefreitag.com/cheatsheets/postgresql/)
+- [Configuring DatabaseCleaner with Rails, RSpec, Capybara](http://devblog.avdi.org/2012/08/31/configuring-database_cleaner-with-rails-rspec-capybara-and-selenium/)
 
 ###Coding challenges
 
