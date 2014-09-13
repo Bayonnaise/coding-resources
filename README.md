@@ -1,7 +1,11 @@
-Cheat sheets
-===========
+#PDF cheat sheets
 
-As well as the PDF files in this repo, here are some useful links for getting started/refreshing the memory on various tasks and topics.
+- [Ruby](/Ruby.pdf)
+
+
+---
+
+#Other useful resources
 
 ###Setting up
 
